@@ -43,5 +43,3 @@ This section ties nicely to the screenshot of your interface and demonstrates th
 
  <img width="1035" height="509" alt="image" src="https://github.com/user-attachments/assets/9b131e2c-0f07-4f3f-8956-82b7633fc422" />
 
-2. DATA CARD
-Dataset Information
