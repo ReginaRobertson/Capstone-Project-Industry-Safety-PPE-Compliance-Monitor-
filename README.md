@@ -16,6 +16,7 @@ Objectives
 
    
 Table 1: Main Results
+
 Model	Test Accuracy
 
 CNN from Scratch	90.3%
