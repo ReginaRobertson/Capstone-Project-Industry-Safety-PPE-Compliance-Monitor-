@@ -17,12 +17,16 @@ Objectives
    
 Table 1: Main Results
 Model	Test Accuracy
-CNN from Scratch	87.3%
-Improved CNN	94.0%
+
+CNN from Scratch	90.3%
+
+Improved CNN	92.5%
+
 MobileNetV2 Transfer Learning	98.5%
+
 Source: Authors’ construct based on data from Kaggle
 
-From table 1 above, the MobileNetV2 model achieved the highest performance and was selected for deployment.
+From table 1 above, the MobileNetV2 significantly outperforms both CNN variants, achieving 98.5% test accuracy of 8.2% higher than the baseline CNN (90.3%) and 6.0% higher than the improved CNN with oversampling (91.8%). For this PPE helmet detection project, transfer learning with MobileNetV2 is the clear choice over building a CNN from scratch.
 
 
 User Interface Overview
